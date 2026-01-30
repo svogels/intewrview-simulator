@@ -1,0 +1,10 @@
+# Core dependencies
+streamlit>=1.28.0
+
+# AI Feedback (optional - only needed if using AI feedback feature)
+anthropic>=0.18.0
+
+# For potential future enhancements
+# opencv-python-headless  # Video processing
+# pandas  # Data analysis
+# plotly  # Enhanced charts

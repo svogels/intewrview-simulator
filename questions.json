@@ -1,0 +1,468 @@
+{
+    "metadata": {
+        "version": "1.0",
+        "created": "2026-01-29",
+        "description": "Woolworths-style interview questions for student practice",
+        "total_questions": 48,
+        "selection_rules": {
+            "typed_questions": 5,
+            "video_questions": 5,
+            "video_time_limit_seconds": 60
+        }
+    },
+    "categories": {
+        "A": "Personal & Motivation",
+        "B": "Customer Service",
+        "C": "Teamwork & Collaboration",
+        "D": "Problem Solving & Initiative",
+        "E": "Work Readiness & Availability"
+    },
+    "selection_quotas": {
+        "typed": {
+            "A": 2,
+            "B": 1,
+            "C": 1,
+            "D": 1
+        },
+        "video": {
+            "A": 1,
+            "B": 2,
+            "C": 1,
+            "D": 1
+        }
+    },
+    "questions": [
+        {
+            "id": "A1",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "Tell us about yourself and what interests you about working in retail.",
+            "type": "both",
+            "difficulty": "easy",
+            "tips": "Keep it professional but personable. Mention your current situation (student), relevant interests, and why retail appeals to you."
+        },
+        {
+            "id": "A2",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "What are your goals for the next 1-2 years?",
+            "type": "both",
+            "difficulty": "easy",
+            "tips": "Show you're thinking about your future. Connect your goals to skills you'd gain from this job."
+        },
+        {
+            "id": "A3",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "Why do you want to work at Woolworths?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Research Woolworths' values. Mention specific things like their community involvement, Australian ownership, or product quality."
+        },
+        {
+            "id": "A4",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "What do you know about Woolworths as a company?",
+            "type": "typed",
+            "difficulty": "medium",
+            "tips": "Research before your interview! Know key facts: founded 1924, largest supermarket chain in Australia, sustainability initiatives."
+        },
+        {
+            "id": "A5",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "Describe a hobby or interest you're passionate about.",
+            "type": "video",
+            "difficulty": "easy",
+            "tips": "Show enthusiasm! This helps interviewers see your personality. Connect it to relevant skills if possible."
+        },
+        {
+            "id": "A6",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "What motivates you to do a good job?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Be honest but professional. Good answers include: helping others, personal pride, learning new skills, being part of a team."
+        },
+        {
+            "id": "A7",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "What does being part of a team mean to you?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Emphasise collaboration, supporting others, and contributing to shared goals. Give an example if possible."
+        },
+        {
+            "id": "A8",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "How would your friends or teachers describe you?",
+            "type": "video",
+            "difficulty": "easy",
+            "tips": "Be honest and choose characteristics relevant to work: reliable, friendly, hardworking, helpful."
+        },
+        {
+            "id": "A9",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "What values are most important to you?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Choose values that align with Woolworths: integrity, respect, customer focus, teamwork."
+        },
+        {
+            "id": "A10",
+            "category": "A",
+            "category_name": "Personal & Motivation",
+            "question": "Where do you see yourself in five years?",
+            "type": "typed",
+            "difficulty": "medium",
+            "tips": "Show ambition while being realistic. It's okay to mention study goals alongside career aspirations."
+        },
+        {
+            "id": "B1",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "What does excellent customer service mean to you?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Think about: making customers feel valued, solving their problems, going above expectations."
+        },
+        {
+            "id": "B2",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "Describe a time when you received great customer service. What made it memorable?",
+            "type": "both",
+            "difficulty": "easy",
+            "tips": "Use a real example. Focus on specific things the person did that impressed you."
+        },
+        {
+            "id": "B3",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "How would you help a customer who couldn't find a product?",
+            "type": "video",
+            "difficulty": "medium",
+            "tips": "Show initiative: don't just point, walk them there. Offer alternatives if it's out of stock."
+        },
+        {
+            "id": "B4",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "A customer is upset because an item is out of stock. How would you handle this?",
+            "type": "both",
+            "difficulty": "hard",
+            "tips": "Show empathy first, then problem-solve. Offer alternatives: check other stores, order online, suggest similar products."
+        },
+        {
+            "id": "B5",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "How would you greet a customer who looks like they need help?",
+            "type": "video",
+            "difficulty": "easy",
+            "tips": "Be warm and approachable. A simple 'Hi there, can I help you find something?' works well."
+        },
+        {
+            "id": "B6",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "What would you do if you noticed a customer struggling with heavy bags?",
+            "type": "both",
+            "difficulty": "easy",
+            "tips": "Show initiative! Offer to help carry bags to their car or find a trolley."
+        },
+        {
+            "id": "B7",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "Describe how you would make a customer's day better.",
+            "type": "video",
+            "difficulty": "medium",
+            "tips": "Think of small gestures: a genuine smile, remembering regulars, helping without being asked."
+        },
+        {
+            "id": "B8",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "A customer complains that they were charged incorrectly. What do you do?",
+            "type": "both",
+            "difficulty": "hard",
+            "tips": "Stay calm, apologise for the inconvenience, check the receipt, and follow store procedures for refunds or corrections."
+        },
+        {
+            "id": "B9",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "How do you stay positive when dealing with many customers in a row?",
+            "type": "video",
+            "difficulty": "medium",
+            "tips": "Mention: remembering each customer is having their own day, taking deep breaths, treating each interaction as fresh."
+        },
+        {
+            "id": "B10",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "What would you do if you saw a customer shoplifting?",
+            "type": "typed",
+            "difficulty": "hard",
+            "tips": "Never confront directly - this is for safety. Follow store policy: alert a manager or security discreetly."
+        },
+        {
+            "id": "B11",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "A customer asks for a product recommendation. How do you respond?",
+            "type": "video",
+            "difficulty": "medium",
+            "tips": "Ask questions to understand their needs first, then make helpful suggestions based on what you know."
+        },
+        {
+            "id": "B12",
+            "category": "B",
+            "category_name": "Customer Service",
+            "question": "How would you handle a long queue of customers waiting to be served?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Stay calm, work efficiently, acknowledge waiting customers, call for backup if needed."
+        },
+        {
+            "id": "C1",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "Tell us about a time you worked successfully as part of a team.",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Use the STAR method: Situation, Task, Action, Result. School projects count!"
+        },
+        {
+            "id": "C2",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "How do you handle disagreements with teammates?",
+            "type": "both",
+            "difficulty": "hard",
+            "tips": "Show maturity: listen to their perspective, find common ground, focus on the goal not personalities."
+        },
+        {
+            "id": "C3",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "Describe a situation where you helped a classmate or colleague.",
+            "type": "both",
+            "difficulty": "easy",
+            "tips": "Show you're willing to go out of your way to help others succeed."
+        },
+        {
+            "id": "C4",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "What role do you usually take in group projects?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Be honest but flexible. Employers want people who can lead AND follow as needed."
+        },
+        {
+            "id": "C5",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "How would you support a new team member who was struggling?",
+            "type": "video",
+            "difficulty": "medium",
+            "tips": "Show empathy and patience. Offer specific help: show them how, answer questions, check in on them."
+        },
+        {
+            "id": "C6",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "Tell us about a time you had to compromise with others.",
+            "type": "typed",
+            "difficulty": "medium",
+            "tips": "Show you can be flexible and prioritise the team's success over your own preferences."
+        },
+        {
+            "id": "C7",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "How do you handle it when a team member isn't doing their share?",
+            "type": "both",
+            "difficulty": "hard",
+            "tips": "Address it respectfully: talk to them first, understand why, offer help before escalating."
+        },
+        {
+            "id": "C8",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "Describe a group achievement you're proud of.",
+            "type": "video",
+            "difficulty": "easy",
+            "tips": "Celebrate the team's success, not just your own contribution. Show you value collaboration."
+        },
+        {
+            "id": "C9",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "What makes a team work well together?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Think about: communication, respect, shared goals, supporting each other, playing to strengths."
+        },
+        {
+            "id": "C10",
+            "category": "C",
+            "category_name": "Teamwork & Collaboration",
+            "question": "How do you communicate with people who have different personalities to you?",
+            "type": "both",
+            "difficulty": "hard",
+            "tips": "Show adaptability: you adjust your communication style, listen actively, find common ground."
+        },
+        {
+            "id": "D1",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "Tell us about a time you solved a problem on your own.",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Show initiative and resourcefulness. Explain your thinking process."
+        },
+        {
+            "id": "D2",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "Describe a situation where you had to think quickly.",
+            "type": "video",
+            "difficulty": "medium",
+            "tips": "This shows you can stay calm under pressure. Any quick decision counts."
+        },
+        {
+            "id": "D3",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "You notice a spill in an aisle. What do you do?",
+            "type": "both",
+            "difficulty": "easy",
+            "tips": "Safety first! Block or mark the area, clean it up or alert someone who can."
+        },
+        {
+            "id": "D4",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "What would you do if you noticed a safety hazard in the store?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Act immediately if safe to do so, otherwise report it straight away to a manager."
+        },
+        {
+            "id": "D5",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "A task is taking longer than expected. How do you handle it?",
+            "type": "typed",
+            "difficulty": "medium",
+            "tips": "Communicate! Let your supervisor know, ask if priorities have changed, problem-solve together."
+        },
+        {
+            "id": "D6",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "Describe a time you went above and beyond what was expected.",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Show initiative and pride in your work. It doesn't have to be a job example - school or volunteering counts."
+        },
+        {
+            "id": "D7",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "How do you prioritise when you have multiple tasks to complete?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Show organisation: consider urgency, importance, and deadlines. Ask for guidance if unsure."
+        },
+        {
+            "id": "D8",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "You're unsure how to complete a task your manager assigned. What do you do?",
+            "type": "both",
+            "difficulty": "easy",
+            "tips": "Ask for clarification! It's better to ask than do it wrong. Show you want to get it right."
+        },
+        {
+            "id": "D9",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "Tell us about a time you made a mistake. How did you handle it?",
+            "type": "both",
+            "difficulty": "hard",
+            "tips": "Own the mistake, explain what you learned, show how you fixed it or would do better next time."
+        },
+        {
+            "id": "D10",
+            "category": "D",
+            "category_name": "Problem Solving & Initiative",
+            "question": "What would you do if you finished your assigned tasks early?",
+            "type": "video",
+            "difficulty": "easy",
+            "tips": "Show initiative: ask what else needs doing, help teammates, look for things to tidy or improve."
+        },
+        {
+            "id": "E1",
+            "category": "E",
+            "category_name": "Work Readiness & Availability",
+            "question": "What hours are you available to work?",
+            "type": "typed",
+            "difficulty": "easy",
+            "tips": "Be honest and specific. If you have school commitments, say so - they expect this from students."
+        },
+        {
+            "id": "E2",
+            "category": "E",
+            "category_name": "Work Readiness & Availability",
+            "question": "Are you comfortable working weekends and public holidays?",
+            "type": "typed",
+            "difficulty": "easy",
+            "tips": "Be honest. Retail requires weekend work. If you have some flexibility, mention that."
+        },
+        {
+            "id": "E3",
+            "category": "E",
+            "category_name": "Work Readiness & Availability",
+            "question": "How do you manage your time between school and other commitments?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Show organisation: calendars, planning ahead, prioritising. Give examples of how you balance things now."
+        },
+        {
+            "id": "E4",
+            "category": "E",
+            "category_name": "Work Readiness & Availability",
+            "question": "Tell us about any experience you have in customer-facing roles or volunteering.",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Any experience counts: school events, helping at sports clubs, family business, charity work."
+        },
+        {
+            "id": "E5",
+            "category": "E",
+            "category_name": "Work Readiness & Availability",
+            "question": "What do you think the challenges of working in a busy retail environment might be?",
+            "type": "typed",
+            "difficulty": "medium",
+            "tips": "Show realistic expectations: busy periods, standing for long shifts, dealing with difficult customers."
+        },
+        {
+            "id": "E6",
+            "category": "E",
+            "category_name": "Work Readiness & Availability",
+            "question": "How do you stay organised and manage your responsibilities?",
+            "type": "both",
+            "difficulty": "medium",
+            "tips": "Share your systems: calendars, to-do lists, routines. Show you're reliable and organised."
+        }
+    ]
+}
